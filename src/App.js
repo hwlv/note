@@ -17,8 +17,15 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+           
+           
           </a>
+          <p>
+          github+netlify 搭建静态服务器
+          </p>
+          <p>
+          https://www.cnblogs.com/codernie/p/9062104.html
+          </p>
         </header>
       </div>
     );
